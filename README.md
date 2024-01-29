@@ -4,6 +4,19 @@
 
 Welcome to ClassifyHub! In this repository, we explore various classification algorithms, unraveling the intricacies of each method to gain a deeper understanding of their applications and nuances. Classification is a fundamental task in machine learning, and here at ClassifyHub, we take a comprehensive dive into some prominent classifiers.
 
+## Understanding Classification:
+**What is Classification?**
+Classification is a machine learning task involving categorizing data into predefined classes based on patterns and features.
+
+**When Do We Use Classification?**
+Classification is employed when predicting the category or class of a data point is essential, especially for categorical variables like "yes" or "no," "spam" or "not spam," etc.
+
+**Why Not Use Regression Methods?**
+- Violation of assumptions
+- Interpretation challenges
+- Spurious relationships
+- Inadequate model fit
+
 ## Classifiers Explored:
 
 ### Logistic Regression
