@@ -9,14 +9,12 @@ Ensure the following prerequisites for successful notebook execution:
 - **Datasets:** Download the Iris dataset from [Kaggle](https://www.kaggle.com/datasets/uciml/iris) and follow the loading steps provided in the notebook.
 - **Libraries:** All required libraries are imported within the notebook.
 
-## Steps Covered in the Notebook:
-1. **Importing Required Packages:** Loading essential libraries for data manipulation, visualization, and modeling.
-2. **Loading Data:** Instructions on obtaining and loading the Iris dataset, detailing its features and target classes.
-3. **Building Model:** A step-by-step guide on implementing Simple Logistic Regression for classification.
-4. **Implementing Model on Data:** Executing the model on the Iris dataset to make predictions.
-5. **Evaluate Model Performance:** Assessing the accuracy of the Simple Logistic Regression model.
 
-## Simple Logistic Regression Formula:
+## Simple Logistic Regression 
+### What is Simple Logistic Regression?
+Simple Logistic Regression is a statistical method used for binary classification tasks, where the outcome variable (dependent variable) has two possible classes. It models the relationship between a single independent variable (feature) and the probability of the binary outcome. The logistic regression model employs the logistic function to transform a linear combination of the input features into probabilities, providing a predicted probability of belonging to a particular class. The decision boundary is determined based on a chosen probability threshold. This method is particularly useful for scenarios where the target variable is binary, such as predicting whether an email is spam or not spam.
+
+### Formula:
 The Simple Logistic Regression formula is expressed as:
 
 \[ P(Y=1|X) = \frac{1}{1 + e^{-(b_0 + b_1X)}} \]
