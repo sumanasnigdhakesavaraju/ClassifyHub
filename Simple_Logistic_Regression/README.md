@@ -16,19 +16,6 @@ Ensure the following prerequisites for successful notebook execution:
 4. **Implementing Model on Data:** Executing the model on the Iris dataset to make predictions.
 5. **Evaluate Model Performance:** Assessing the accuracy of the Simple Logistic Regression model.
 
-## Understanding Classification:
-**What is Classification?**
-Classification is a machine learning task involving categorizing data into predefined classes based on patterns and features.
-
-**When Do We Use Classification?**
-Classification is employed when predicting the category or class of a data point is essential, especially for categorical variables like "yes" or "no," "spam" or "not spam," etc.
-
-**Why Not Use Regression Methods?**
-- Violation of assumptions
-- Interpretation challenges
-- Spurious relationships
-- Inadequate model fit
-
 ## Simple Logistic Regression Formula:
 The Simple Logistic Regression formula is expressed as:
 
