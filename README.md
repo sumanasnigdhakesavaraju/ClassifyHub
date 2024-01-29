@@ -38,7 +38,7 @@ Discover Naive Bayes, a probabilistic classifier based on Bayes' theorem, known 
 ### K-Nearest Neighbors (KNN)
 Uncover the principles of K-Nearest Neighbors, a non-parametric method relying on the proximity of data points to make classifications.
 
-## Steps Covered in This Notebook:
+## Steps Covered in These Notebooks:
 
 1. **Importing Required Packages:**
    Load essential libraries for data manipulation, visualization, and modeling.
